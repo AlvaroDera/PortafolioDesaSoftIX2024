@@ -1,5 +1,7 @@
 Universidad Tecnologica de Panama
+
 Lic. Desarrollo de Software
+
 Desarrollo de Software IX
 
 Alvaro Alvaro
